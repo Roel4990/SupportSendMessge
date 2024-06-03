@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "ln -s ../node_modules/request node_modules/google-gax/node_modules/request"
+    "lint": "next lint"
   },
   "dependencies": {
     "@google-cloud/text-to-speech": "^5.3.0",
